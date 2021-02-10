@@ -1,0 +1,13 @@
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.csprojAssemblyReference.cache
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.AssemblyInfoInputs.cache
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.AssemblyInfo.cs
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.csproj.CoreCompileInputs.cache
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.exe
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.deps.json
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.runtimeconfig.json
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.runtimeconfig.dev.json
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.dll
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\bin\Debug\netcoreapp3.1\testeRomano.pdb
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.dll
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.pdb
+C:\Users\jonat_lre7r6j\source\repos\testeRomano\testeRomano\obj\Debug\netcoreapp3.1\testeRomano.genruntimeconfig.cache

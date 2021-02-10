@@ -1,0 +1,17 @@
+Transformar numeração romana em inteiro
+
+Este teste visa verificar sua capacidade de resolução de problemas 
+que aparentemente são simples, mas pode se complicar durante o processo.
+
+Nivelamento:
+- Para nível fácil: O teste deve funcionar perfeitamente do número 1 ao número 39,
+pos só usa-se I, V E X
+
+Informações importantes:
+- Caso queira saber como funciona a númeração romana, poderá pesquisar no wikipedia
+
+- Se usar o Google para procurar código-pronto, você é um perdedor. Vocêe pode, no entato,
+pesquisar como funcionam as funções da linguagem que irá usar
+
+- Pode usar qualquer linguagem para resolução, contudo recomendamos PHP ou JavaScript
+
