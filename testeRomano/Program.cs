@@ -7,15 +7,13 @@ namespace testeRomano
     {
         static void Main(string[] args)
         {
-
+            
             int R = 0;
 
             Console.Write("Digite o número romano em MAIUSCULO: ");
             string n = Console.ReadLine();
 
             int Indices = n.Length;
-
-
 
             for (int z = 0; z < Indices; z++)
             {
